@@ -280,7 +280,7 @@ a { color: #fff; }
     }
 
 }
-@media(max-width:400px){
+@media(max-width:450px){
     header{
         padding: 20px 30px;
         width: 100%;
